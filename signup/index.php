@@ -126,5 +126,5 @@
 
 		  gtag('config', 'UA-23581568-13');
 		</script>
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</body>
 </html>
